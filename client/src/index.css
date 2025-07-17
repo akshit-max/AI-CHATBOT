@@ -1,0 +1,11 @@
+body {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+.navbar{
+    border-bottom: 2px solid rgba(3, 3, 3, 0.199);
+    
+}
